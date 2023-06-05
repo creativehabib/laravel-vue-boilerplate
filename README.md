@@ -10,6 +10,8 @@ Install PHP and JavaScript dependencies:
 
     composer install
     npm install
+    npm install vue-loader@next vue@next vue-router@next --force
+    npm install @vitejs/plugin-vue --force --save-dev
 
 Generate Laravel keys:
 
